@@ -10,8 +10,8 @@ from typing import Dict, Optional
 # --- Settings ---
 RELEASEVERSION = "OB50"
 USERAGENT = "Dalvik/2.1.0 (Linux; U; Android 13; CPH2095 Build/RKQ1.211119.001)"
-TELEGRAM_TOKEN = "7848747358:AAHuiPoYbBfnTTDyI8GJJziIsdqAhNK5Qvg"
-TELEGRAM_CHAT_ID = 8254557388
+TELEGRAM_TOKEN = "7575129416:AAFOYiVVDVduVRCUEGvpbTx40WjmYNbe7aM"
+TELEGRAM_CHAT_ID = 7616182203
 BRANCH_NAME = "main"
 JWT_API_URL = "https://jwt-api-aditya-ffm.vercel.app/token"
 
